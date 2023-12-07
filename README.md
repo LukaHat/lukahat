@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
-- 🔭 I’m currently working on [Put Svile](https://github.com/LukaHat/put_svile)
+- 🔭 I’m currently working on [Jammming]([https://github.com/LukaHat/put_svile](https://github.com/LukaHat/Jammming))
 
 - 🌱 I’m currently learning **React, Tailwind CSS, Gulp,**
 
