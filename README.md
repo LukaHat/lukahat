@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Jammming](https://github.com/LukaHat/Jammming)
 
-- 🌱 I’m currently learning **React, Tailwind CSS, Gulp,**
+- 🌱 I’m currently learning **React, Tailwind CSS, Gulp,SaSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
