@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
-- 🔭 I’m currently working on [Jammming](https://github.com/LukaHat/Jammming)
+- 🔭 I’m currently working on [data-depot](https://github.com/LukaHat/data-depot)
 
-- 🌱 I’m currently learning **React, Tailwind CSS, Gulp,SaSS**
+- 🌱 I’m currently learning **React, Stripe, React Router,SaSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
